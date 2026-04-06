@@ -5,6 +5,15 @@ Bird Life List is a open-source Pyside-6 project, built for personal use, which 
 
 <img width="1372" height="1071" alt="Screenshot 2026-04-06 at 2 46 07 PM" src="https://github.com/user-attachments/assets/23a9a0ac-a6f2-4d67-8f58-9b73341397d7" />
 
+## Deployment
+
+To deploy, download the repo and run:
+
+```bash
+pip install PySide6
+pip install PySide6-WebEngine
+python birdlist.py
+```
 
 ## Features
 
